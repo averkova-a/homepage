@@ -49,3 +49,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# personal ignore
+.DS_store
+.stylelintrc.json
+.node_modules/
+package-lock.json
