@@ -92,9 +92,6 @@
   p:last-child {
     margin-bottom: 0;
   }
-  strong {
-    font-weight: 600;
-  }
   small {
     font-size: 80%;
   }
@@ -1036,3 +1033,16 @@
       margin-bottom: 0;
     }
   }
+  .personal_link {
+    color: rgb(0, 0, 0);
+    text-decoration: underline
+  }
+  .personal_link:hover {
+    color: #830016;
+  }
+  .blood{
+    cursor: default;
+  }
+  strong {
+    font-weight: 600;
+}
