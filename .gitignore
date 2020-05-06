@@ -53,5 +53,5 @@ $RECYCLE.BIN/
 # personal ignore
 .DS_store
 .stylelintrc.json
-.node_modules/
+.node_modules/*
 package-lock.json
