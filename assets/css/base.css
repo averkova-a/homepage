@@ -112,3 +112,12 @@ a.fight {
 .Modal .close::after {
   background: #616161;
 }
+
+.gif {
+  display: none;
+  height: 100px;
+}
+
+.show_gif:hover .gif {
+  display: block;
+}
